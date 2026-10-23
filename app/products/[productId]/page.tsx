@@ -9,3 +9,14 @@ export default async function ProductDetails({params }:{
     const productId = (await params).productId;
     return <h1>Details about product {productId}</h1>
 }
+
+// in Next.js 16 version to get dynamic paramaters we will use useParams()
+/*
+ "use client"
+import { useParams } from "next/navigation";
+
+export default function ProductDetails(){
+    const {productId} = useParams();
+    return <h1>Details about product {productId}</h1>
+}
+*/

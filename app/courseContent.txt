@@ -1,0 +1,13 @@
+Next.js Course Content:-
+1. Introduction.tsx
+2. Routing, Nested Routes, Dynamic Routes, Nested Dynamic and Catch all segments see Routing Example folder
+ - see Routing Introduction.tsx file
+3. Not Found Page -- see components/NotFoundPageIntroduction.tsx
+4. see PrivateFolderExample.tsx
+5. Route Groups - see RouteGroupExample.tsx
+6. Layouts - see components/LayoutsExample.tsx
+7. Nested Layout - see components/NestedLayoutExample.tsx
+8. Link Component - see components/linkComponent.tsx
+
+Main Next.Js Repos:-
+1. Next.js-Demo-part-1

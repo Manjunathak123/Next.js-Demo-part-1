@@ -43,7 +43,9 @@ conatins concept 1, concept2 etc. example routes /docs/feature1/concept1, /docs/
 [...slug] folder inside docs folder will matches any url with starting docs.
 -> cath all segment will accepts all url segements and handles in a single file.
 
-Note: File-based routing in Next.js is a replacement for React Router, not Route Handlers.
+Does file based routing in next js is replacement of React router or route handler:-
+
+File-based routing in Next.js is a replacement for React Router, not Route Handlers.
  In fact, Route Handlers are actually a part of Next.js's file-based routing system.
 To understand how these pieces fit together, it helps to look at what they do:
 
